@@ -338,3 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Library
+/ProjectSettings
+/Temp
+/Assets/WM2000
+/Assets/Scenes
+/Terminal Hacker.sln
+/Assembly-CSharp.csproj

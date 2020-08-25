@@ -39,7 +39,7 @@ public class Hacker : MonoBehaviour
         }
         else if (input == "1")
         {
-            level = 1;
+            level = 1; 
             StartGame();
         }
         else
